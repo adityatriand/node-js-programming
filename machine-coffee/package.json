@@ -1,0 +1,19 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "simply app using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Aditya Tri Ananda",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
